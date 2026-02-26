@@ -13,3 +13,11 @@ Naive Bayes
 Ada Boosting
 Gradient boosting
 
+
+
+
+### Cite
+Battineni, Gopi, **Mohmmad Amran Hossain**, Nalini Chintalapudi, Enea Traini, Venkata Rao Dhulipalla, Mariappan Ramasamy, and Francesco Amenta. 2021. "Improved Alzheimer’s Disease Detection by MRI Using Multimodal Machine Learning Algorithms" Diagnostics 11, no. 11: 2103. https://doi.org/10.3390/diagnostics11112103
+
+
+### Article link: https://doi.org/10.3390/diagnostics11112103
